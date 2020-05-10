@@ -1,0 +1,7 @@
+export default {
+  ADMIN: 'ADMIN',
+  SUPPLIER: 'SUPPLIER',
+  EMPLOYEE: 'EMPLOYEE',
+  CLIENT: 'CLIENT',
+  GREMLIN: 'GREMLIN',
+};
